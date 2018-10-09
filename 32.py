@@ -44,6 +44,6 @@ elif choice==5:
 	b=input("Enter the second number")
 	exp(a,b)
 else:
-	print "ivalid selection"
+	print "invalid selection"
 
 
